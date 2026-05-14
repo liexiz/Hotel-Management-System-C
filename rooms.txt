@@ -1,0 +1,15 @@
+101 0 2 100.00 O 2
+WiFi
+TV
+201 1 3 200.00 A 2
+WiFi
+MiniBar
+301 2 4 350.00 A 3
+WiFi
+TV
+MiniBar
+401 0 1 80.00 A 1
+WiFi
+501 1 2 700.00 O 1
+WIFI
+
